@@ -1,12 +1,22 @@
+# Backend framework
 fastapi
 uvicorn
+
+# File handling
+python-multipart
 pypdf
 python-pptx
-pillow
-python-multipart
+Pillow
+
+# RAG & Vector store
 langchain
 langchain-community
-langchain-core
 langchain-text-splitters
 chromadb
+
+# Embeddings (CPU-safe, no torch)
+scikit-learn
+numpy
+
+# LLM (Ollama)
 langchain-ollama
